@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="ottoman_dict@localhost" uuid="203fa575-19c8-4fe3-be37-f754594e0577">
+    <data-source source="LOCAL" name="ottoman_dict@localhost" uuid="d6acf596-3a1b-48bb-9ed5-8cdf17ecdf55">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>

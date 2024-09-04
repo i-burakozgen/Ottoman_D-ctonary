@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend_dict", "Backend_dict\Backend_dict.csproj", "{E19D2803-9153-476A-BB56-4C7988F1313F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSeeder", "DataSeeder\DataSeeder.csproj", "{21DB3670-E188-4C83-AE3B-FB231322585C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{E19D2803-9153-476A-BB56-4C7988F1313F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E19D2803-9153-476A-BB56-4C7988F1313F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E19D2803-9153-476A-BB56-4C7988F1313F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DB3670-E188-4C83-AE3B-FB231322585C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DB3670-E188-4C83-AE3B-FB231322585C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DB3670-E188-4C83-AE3B-FB231322585C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DB3670-E188-4C83-AE3B-FB231322585C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
