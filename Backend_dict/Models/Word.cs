@@ -7,9 +7,9 @@ public class Word
     [Key]
     public int Id { get; set; }
     public string WordName { get; set; }
-    public ICollection<Variation> Variations { get; set; }
-    public ICollection<Meaning> Meanings { get; set; }
-    public ICollection<PersianTransliteration> PersianTransliterations { get; set; }
+    public IList<Variation> Variations { get; set; }
+    public IList<Meaning> Meanings { get; set; }
+    public IList<PersianTransliteration> PersianTransliterations { get; set; }
 }
 
 
